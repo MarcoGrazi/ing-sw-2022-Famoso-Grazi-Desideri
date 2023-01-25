@@ -1,0 +1,1 @@
+java -jar Server.jar "your path to the checkpoints folder"
